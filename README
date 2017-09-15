@@ -1,0 +1,7 @@
+this is an IOS app for people to search restaurant
+my conbtribute is :
+•	Used UITableView to illustrate search result with customize UITableViewCell
+•	Updated UITableView by delegate pattern based on implement UITabeViewDataSource protocol
+•	Implemented Multiple MVC (Model-View-ViewController) through UINavigationController to support better capabilities
+•	Customized restaurant query for user to provide better user interaction
+•	Integrated Yelp API to retrieve restaurant info and fetched info from backend servers with NSURLSession and parse JSON result to NSDictionary
